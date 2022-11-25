@@ -1,0 +1,41 @@
+The first analysis shows that there are a total of 15 schools being reviewed. The total budget allotted to the schools combined are $24,649,428.00. Looking at all the schools, the average math score is 78.99. The average reading score for all schools looked up is 81.88. This tells me that overall all, students, on average, do better in reading than in math. This further bears out when looking at percentage of students passing both subjects. The percentage of students who passed math was 74.98%. The percentage of students passing reading was 85.81%. The percentage of students who passed both math and reading was only 65.17%.
+
+For number of students who passed math by school, the top three schools with the most number of students who passed reading was:
+
+	- Bailey High School with 3,318 students who passed 
+	- Johnson High School with 3,145 students who passed
+	- Hernandez High School with 3,094 students passed.
+
+For number of students who passed reading by school, the top three schools with the most number of students who passed reading was:
+
+	- Bailey High School with 4,077 students who passed
+	- Johnson High School with 3,867 students who passed
+	- Hernandez High School with 3,748 students who passed
+
+In terms of percentage of students who passed for each high school, the top three high schools with students who passed reading was:
+
+	Thomas High School with 97.31% of students that passed reading.
+	Griffin High School with 97.14 students that passed reading.
+	Cabrera High School with 97.04% of students that passed reading.
+
+In terms of percentage of students who passed for each high school, the top three high schools with students who passed math was:
+
+	Pena High School with 94.59% of students that passed math.
+	Cabrera High School with 94.12% of students that passed math.
+	Wilson High School with 93.87% of students that passed math.
+
+The percentage of students passing is a much better indicator and gives a better idea of the percentage of students who passed instead of just the count of people that passed.
+
+The best analytic to use when considering which school to send your child would be the overall pass percentage (assuming curriculums are the same). The top three high schools with the highest overall percentage of students passing by school is:
+	
+	Cabrera High School with 91.33% of students to pass both Math and Reading
+	Thomas High School with 90.95% of students to pass both Math and Reading
+	Griffin High School with 90.60% of students to pass both Math and Reading
+
+In looking at spending per student, it appears that the higher the schools budget per student is, there is not a positive correlation to success. The highest percent of individuals to pass Math, Reading, and overall both, are budgets that spent less than $585 per student. So as a parent, you can think about saving money and still maximizing benefits. 
+
+In looking at the school size, schools where the number of students enrolled are considered medium tiered(between 1000 students and 2000 students) performed the best, just barely edging out small schools with less than 1000 students. Larger schools with 2000 to 5000 students enrolled performed the worst.
+
+Looking at the school type, the best school to send your child to, where they performed the best are charter schools. District schools lagged quite far behind.
+
+If I were a parent, I would look to send my child to a school whose budget per student is less than $585, a school where there were 1000 to 2000 students enrolled, and to a charter school. A parent who wanted their child to have the best chance of success in Math and Reading would choose Cabrera High School.
